@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in the Odin curriculum. I'll basically be making a webpage containing a few recipes. Text, images, and links. I've done this before with appAcademy, but it should be a good review, especially since the Odin Project approach is to concurrently learn how to use git and github from the command line (and VSCode).
