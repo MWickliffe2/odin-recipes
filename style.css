@@ -3,3 +3,14 @@ h1#title {
     font-size: 4em;
     text-align: center;
 }
+
+p {
+    text-align: center;
+}
+
+.recipe {
+    color: black;
+    font-family: "Trebuchet MS", "Courier New";
+    font-size: 2em;
+    text-decoration: none;
+}
