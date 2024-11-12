@@ -1,10 +1,10 @@
 * {
-    background-color: rgb(237, 220, 159);
+    background-color: rgb(255, 250, 217);
 }
 
 h1#title {
     font-family: Georgia, "Trebuchet MS", "Courier New";
-    font-size: 4em;
+    font-size: 3.5em;
     text-align: center;
 }
 
@@ -13,8 +13,8 @@ p {
 }
 
 .recipe {
-    color: black;
-    font-family: "Trebuchet MS", "Courier New";
-    font-size: 2em;
+    color: rgb(65, 0, 0);
+    font-family: "Brush Script MT", "Trebuchet MS", "Courier New";
+    font-size: 3em;
     text-decoration: none;
 }
