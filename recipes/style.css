@@ -2,3 +2,7 @@
     height: 480px;
     width: auto;
 }
+
+p, ul, ol {
+    font-size: 1.25em;
+}
