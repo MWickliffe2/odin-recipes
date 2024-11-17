@@ -3,6 +3,7 @@
 }
 
 h1#title {
+    background-color: rgb(245, 234, 173);
     font-family: Georgia, "Trebuchet MS", "Courier New";
     font-size: 56px;
     text-align: center;
