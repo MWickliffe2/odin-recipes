@@ -1,11 +1,12 @@
-/* * {
-    text-align: center;
-} */
+* {
+    margin: 18px auto 18px auto;
+}
 
 .recipe-pic {
     display: block;
     height: 480px;
     margin-right: auto;
+    margin-bottom: 36px;
     margin-left: auto;
     width: auto;
 }
@@ -20,6 +21,7 @@ div.list-container {
 
 h1, h2 {
     text-align: center;
+    margin-bottom: 0px;
 }
 
 p {
@@ -32,7 +34,7 @@ ul, ol {
     display: inline-block;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    
+    margin: 0px auto 0px auto;
     text-align: left;
 }
 
