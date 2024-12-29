@@ -1,11 +1,39 @@
+/* * {
+    text-align: center;
+} */
+
 .recipe-pic {
+    display: block;
     height: 480px;
+    margin-right: auto;
+    margin-left: auto;
     width: auto;
 }
 
-p, ul, ol {
+#description {
+    margin-bottom: 36px;
+}
+
+div.list-container {
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
     font-family:'Times New Roman', Times, serif;
     font-size: 18px;
+    text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+    text-align: left;
 }
 
 a {
