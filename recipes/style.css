@@ -3,32 +3,27 @@
     background-color: rgb(244, 196, 48);
 }
 
-#recipe-pic-container {
+#casc-recipe-pic-container {
     background-color: black;
 }
 
-.recipe-pic {
+.casc-recipe-pic {
     display: block;
     height: 480px;
     margin-bottom: 36px;
     width: auto;
 }
 
-#description {
+#casc-description {
     margin-bottom: 36px;
 }
 
-/* #description-title, #description {
-    background-color: rgb(239, 144, 103);
-} */
-
-div.ul-list-container {
+div.list-container {
     text-align: center;
-    background-color: navy;
 }
 
-div.ol-list-container {
-    text-align: center;
+div.casc-ul {
+    background-color: navy;
 }
 
 h1, h2 {
