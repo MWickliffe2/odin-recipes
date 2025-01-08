@@ -42,7 +42,7 @@ p {
     text-align: center;
 }
 
-ul, ul li {
+.casc-ul ul {
     color: white;
     background-color: navy;
 }
