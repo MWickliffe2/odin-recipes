@@ -46,10 +46,20 @@ div.casc-ul {
     margin-bottom: 0px;
 }
 
+.g-body h1 {
+    font-size: 4em;
+}
+
+.g-body h2 {
+    font-size: 3em;
+}
+
 .g-body h1, .g-body h2 {
     color: rgb(30, 50, 93);
     text-align: center;
     margin-bottom: 0px;
+    font-family: "Brush Script MT", "Trebuchet MS", "Courier New";
+    /* font-size: 3em; */
 }
 
 p {
