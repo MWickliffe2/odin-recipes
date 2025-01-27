@@ -14,7 +14,7 @@
     background-color: black;
 }
 
-.casc-recipe-pic, .g-recipe-pic {
+.casc-recipe-pic, .g-recipe-pic, .ct-recipe-pic {
     display: block;
     height: 480px;
     margin-bottom: 36px;
