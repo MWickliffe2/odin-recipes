@@ -10,6 +10,10 @@
     background-color: rgb(246, 243, 235);
 }
 
+.ct-body {
+    background-color: rgb(251, 236, 93);
+}
+
 #casc-recipe-pic-container {
     background-color: black;
 }
@@ -60,6 +64,11 @@ div.casc-ul {
     margin-bottom: 0px;
     font-family: "Brush Script MT", "Trebuchet MS", "Courier New";
     /* font-size: 3em; */
+}
+
+.ct-body h1, .ct-body h2 {
+    text-align: center;
+    margin-bottom: 0px;
 }
 
 p {
