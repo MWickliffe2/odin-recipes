@@ -43,11 +43,20 @@ div.casc-ul {
     background-color: navy;
 }
 
+.casc-body h1 {
+    font-size: 3em;
+}
+
+.casc-body h2 {
+    font-size: 2em;
+}
+
 .casc-body h1, .casc-body h2 {
     color: black;
     background-color: rgb(239, 144, 103);
     text-align: center;
     margin-bottom: 0px;
+    font-family: Baskerville, "Bradley Hand", "Trebuchet MS";
 }
 
 .g-body h1 {
