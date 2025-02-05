@@ -63,12 +63,20 @@ div.casc-ul {
     text-align: center;
     margin-bottom: 0px;
     font-family: "Brush Script MT", "Trebuchet MS", "Courier New";
-    /* font-size: 3em; */
+}
+
+.ct-body h1 {
+    font-size: 3em;
+}
+
+.ct-body h2 {
+    font-size: 2em;
 }
 
 .ct-body h1, .ct-body h2 {
     text-align: center;
     margin-bottom: 0px;
+    font-family: "Bradley Hand", "Trebuchet MS", "Courier New";
 }
 
 p {
